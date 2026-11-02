@@ -4,10 +4,9 @@ public class Helloworld {
 	public static void main(String[] args) {
 		System.out.println("first commit");
 		System.out.println("for git blame");
-		System.out.println("I'm coding somethig but now have to leave.");
-		System.out.println("And now i'm back!");
-//		System.out.println("Solved the MISTAKE.");
-//		System.out.println("Solved second error on branch testfive.");
+		System.out.println("I'm coding somethig but now have to leave.");//for stash test
+		System.out.println("And now i'm back!");//for stash test
+		System.out.println("Also Simulated merge conflict successfully");
 	}
 
 }
