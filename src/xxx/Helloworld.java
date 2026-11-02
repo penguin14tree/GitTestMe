@@ -3,7 +3,7 @@ package xxx;
 public class Helloworld {
 	public static void main(String[] args) {
 		System.out.println("first commit");
-		System.out.println("for git blame")
+		System.out.println("for git blame");
 	}
 
 }
